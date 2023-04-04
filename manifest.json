@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Ponto Digital",
+  "version": "1.2304.04",
+  "description": "Extensão para controle de ponto local simplificado. \n\nCriado por: Guilherme Scandelari. Git: https://github.com/GScandelari",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png"
+    }
+  },
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
